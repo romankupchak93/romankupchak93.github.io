@@ -177,10 +177,10 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4">
+          <div class="col-lg-4" style="align-items: center;display: inline-grid;">
             <img src="assets/img/i-am.jpg" class="img-fluid" alt="" style="border-radius: 10%;">
           </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
+          <div class="col-lg-8 pt-4 pt-lg-0 content" style="align-items: center;display: inline-grid;">
             <h3>PHP Developer &amp; Web Developer</h3>
             <!-- <p class="font-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -203,13 +203,12 @@
                 </ul>
               </div>
             </div>
-            <p>
-              Обожнюю свою сім'ю, роботу, баскетбол.
-              
-              <!-- Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores. -->
-            </p>
           </div>
+          <p style="margin-top: 1em;text-align: justify;word-wrap: break-word;">&nbsp&nbspПрацюю у компанії ТОВ Техноінфософт з 2017 року. Робота моя починалась з того, що я малював звіти у VisualStudio, самостійно вивчав SQL. Згодом зацікавився розробкою сайтів. Перший мій сайт був зроблений на платформі Wordpress.
+              для КП "Центр розвитку міста та рекреації" міста Івано-Франківськ. Згодом я вирішив що вивчатиму PHP. Почав займатись підтримкою порталів які були розроблені нашою компанією для багатьох КП нашого міста, як приклад КП "Теплий дім" разом зі своїм колегою по роботі.
+              Згодом я приймав безпосередню участь у створенні порталу який я вважаю одним із самих крутих для контакт-центрів, а саме для міста Львова, яким користується Львівська міська рада. Також займаюсь обслуговуванням електронних карток.
+              Один із тих хто надихає мене до саморозвитку це Кобі Браянт, відомий баскетболіст НБА.
+            </p>
         </div>
 
       </div>
@@ -269,48 +268,6 @@
                         }
                     }
             ?>
-        </div>
-      </div>
-    </section>
-    <style>
-      .shadow-content {
-          width: 100%;
-          display: inline-block;
-      }
-      #main-news {
-          width: 100%;
-          column-count: 2;
-          column-gap: 1%;
-      }
-      #news img {
-        max-width: 100%
-      }
-      </style>
-
-    <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title">
-          <h2>Контакти</h2>
-        </div>
-        <div class="row mt-1">
-          <div class="col-lg-6">
-            <div class="info">
-              <a href="mailto: romankupchak93@gmail.com">
-              <div class="email">
-                <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
-                <p>romankupchak93@gmail.com</p>
-              </div>
-              </a>
-              <a href="tel: +380500724257">
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <p>+38 (050) 072-42-57</p>
-              </div>
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </section>

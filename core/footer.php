@@ -1,4 +1,4 @@
-<footer id="footer">
+<!-- <footer id="footer">
     <div class="container">
       <div class="social-links">
       <a href="https://www.instagram.com/sofiia_mykhashchuk/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
@@ -10,7 +10,7 @@
           <?=date('Y',time())?> © Всі права захищено
       </div>
     </div>
-  </footer>
+  </footer> -->
   <a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
   <div id="preloader"></div>
   <script src="/assets/vendor/jquery/jquery.min.js"></script>
